@@ -1,0 +1,37 @@
+conta,descricao,tipo,grupo,natureza,conta_pai,aceita_lancamento,categorias_fornecedor
+1,Ativo,sintética,ativo,devedora,,não,
+1.1,Ativo circulante,sintética,ativo,devedora,1,não,
+1.1.1,Disponibilidades,sintética,ativo,devedora,1.1,não,
+1.1.1.01,Banco Meridiano - conta movimento,analítica,ativo,devedora,1.1.1,sim,
+1.1.1.02,Banco Litoral - conta movimento,analítica,ativo,devedora,1.1.1,sim,
+1.1.4,Estoques,sintética,ativo,devedora,1.1,não,
+1.1.4.01,Estoque de produtos acabados,analítica,ativo,devedora,1.1.4,sim,produto
+1.1.4.02,Estoque de embalagens,analítica,ativo,devedora,1.1.4,sim,embalagens
+1.1.4.03,Estoque de matérias-primas e insumos,analítica,ativo,devedora,1.1.4,sim,insumos_capa
+2,Passivo,sintética,passivo,credora,,não,
+2.1,Passivo circulante,sintética,passivo,credora,2,não,
+2.1.1,Fornecedores,sintética,passivo,credora,2.1,não,
+2.1.1.01,Fornecedores nacionais,analítica,passivo,credora,2.1.1,sim,
+4,Despesas,sintética,resultado,devedora,,não,
+4.2,Despesas comerciais,sintética,resultado,devedora,4,não,
+4.2.1,Logística,sintética,resultado,devedora,4.2,não,
+4.2.1.01,Fretes sobre vendas,analítica,resultado,devedora,4.2.1,sim,frete
+4.2.2,Marketing,sintética,resultado,devedora,4.2,não,
+4.2.2.01,Publicidade e propaganda (agências),analítica,resultado,devedora,4.2.2,sim,marketing_agencia
+4.2.2.02,Marketing de influência,analítica,resultado,devedora,4.2.2,sim,influenciador
+4.3,Despesas administrativas,sintética,resultado,devedora,4,não,
+4.3.1,Ocupação,sintética,resultado,devedora,4.3,não,
+4.3.1.01,Aluguéis e condomínios,analítica,resultado,devedora,4.3.1,sim,aluguel
+4.3.1.02,Energia elétrica,analítica,resultado,devedora,4.3.1,sim,utilidades
+4.3.1.03,Água e esgoto,analítica,resultado,devedora,4.3.1,sim,utilidades
+4.3.1.04,Telefonia e internet,analítica,resultado,devedora,4.3.1,sim,utilidades
+4.3.1.05,Gás,analítica,resultado,devedora,4.3.1,sim,utilidades
+4.3.2,Tecnologia,sintética,resultado,devedora,4.3,não,
+4.3.2.01,"Software, licenças e nuvem",analítica,resultado,devedora,4.3.2,sim,ti_saas
+4.3.3,Serviços de terceiros,sintética,resultado,devedora,4.3,não,
+4.3.3.01,Serviços de terceiros - pessoa jurídica,analítica,resultado,devedora,4.3.3,sim,servicos
+4.3.3.02,"Serviços profissionais (contábil, jurídico, auditoria)",analítica,resultado,devedora,4.3.3,sim,servicos
+4.4,Despesas financeiras,sintética,resultado,devedora,4,não,
+4.4.1,Encargos financeiros,sintética,resultado,devedora,4.4,não,
+4.4.1.01,Juros e multas por atraso,analítica,resultado,devedora,4.4.1,sim,
+4.4.1.02,Tarifas bancárias,analítica,resultado,devedora,4.4.1,sim,

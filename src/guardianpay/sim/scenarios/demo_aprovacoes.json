@@ -1,0 +1,13 @@
+{
+  "nome": "demo_aprovacoes_v1",
+  "aviso": "SIMULAÇÃO DE TESTE: decisões programadas com identidades de teste. Não representam manifestação humana real.",
+  "regras": [
+    {"id": "corrigir_valor",   "match": {"tool": "corrigir_lancamento", "campo": "valor"}, "decisao": "aprovar", "atraso_horas": 1},
+    {"id": "corrigir_forn",    "match": {"tool": "corrigir_lancamento", "campo": "fornecedor_id"}, "decisao": "aprovar", "atraso_horas": 2},
+    {"id": "cancelar_dup",     "match": {"tool": "cancelar_titulo"}, "decisao": "aprovar", "atraso_horas": 3},
+    {"id": "reverter_cad",     "match": {"tool": "reverter_alteracao_cadastro"}, "decisao": "aprovar", "atraso_horas": 2},
+    {"id": "oc_cancelada",     "match": {"tool": "agendar_titulo", "oc_status": "cancelada"}, "decisao": "recusar", "atraso_horas": 1,
+     "motivo": "OC cancelada: compra sem pedido válido (decisão de teste)"},
+    {"id": "oc_pendente",      "match": {"tool": "agendar_titulo"}, "decisao": "aprovar", "atraso_horas": 2}
+  ]
+}

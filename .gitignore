@@ -1,0 +1,19 @@
+.env
+var/
+__pycache__/
+*.db
+*.db-wal
+*.db-shm
+.pytest_cache/
+
+# Additional environment and secret files
+.env.*
+!.env.example
+*.pem
+*.p12
+*.pfx
+*.key
+*.sqlite
+*.sqlite3
+node_modules/
+.venv/

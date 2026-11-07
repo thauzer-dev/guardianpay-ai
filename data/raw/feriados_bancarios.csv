@@ -1,0 +1,23 @@
+data,dia_semana,descricao,abrangencia,sem_expediente_bancario,afeta_remessa
+2026-01-01,quinta,Confraternização Universal,nacional,sim,sim
+2026-02-16,segunda,Carnaval,nacional (ponto facultativo; bancos fechados),sim,sim
+2026-02-17,terça,Carnaval,nacional (ponto facultativo; bancos fechados),sim,sim
+2026-03-19,quinta,São José,estadual CE,sim,não (compensação nacional funciona)
+2026-03-25,quarta,Data Magna do Ceará,estadual CE,sim,não (compensação nacional funciona)
+2026-04-03,sexta,Paixão de Cristo,nacional,sim,sim
+2026-04-21,terça,Tiradentes,nacional,sim,sim
+2026-05-01,sexta,Dia do Trabalho,nacional,sim,sim
+2026-06-04,quinta,Corpus Christi,nacional (ponto facultativo; bancos fechados),sim,sim
+2026-08-15,sábado,Nossa Senhora da Assunção,municipal Fortaleza,sim,não (compensação nacional funciona)
+2026-09-07,segunda,Independência,nacional,sim,sim
+2026-10-12,segunda,Nossa Senhora Aparecida,nacional,sim,sim
+2026-11-02,segunda,Finados,nacional,sim,sim
+2026-11-15,domingo,Proclamação da República,nacional,sim,sim
+2026-11-20,sexta,Consciência Negra,nacional,sim,sim
+2026-12-25,sexta,Natal,nacional,sim,sim
+2027-01-01,sexta,Confraternização Universal,nacional,sim,sim
+2027-02-08,segunda,Carnaval,nacional (ponto facultativo; bancos fechados),sim,sim
+2027-02-09,terça,Carnaval,nacional (ponto facultativo; bancos fechados),sim,sim
+2027-03-19,sexta,São José,estadual CE,sim,não (compensação nacional funciona)
+2027-03-25,quinta,Data Magna do Ceará,estadual CE,sim,não (compensação nacional funciona)
+2027-03-26,sexta,Paixão de Cristo,nacional,sim,sim

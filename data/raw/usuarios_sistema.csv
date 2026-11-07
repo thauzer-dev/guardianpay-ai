@@ -1,0 +1,32 @@
+login,nome,email,sistema,cargo,area,perfil,alcada_rs,pode_alterar_dados_bancarios,data_admissao,data_desligamento,status,gestor,pessoa_id,estacao_trabalho
+usuario_01,Larissa Gomes,larissa.gomes@gogroup.com.br,ERP,analista de contas a pagar pleno,Financeiro - Contas a pagar,analista_cp,5000.00,sim,2024-03-01,,ativo,usuario_12,,CP-NB-01
+usuario_02,Vinícius Barros,vinicius.barros@gogroup.com.br,ERP,analista de contas a pagar pleno,Financeiro - Contas a pagar,analista_cp,5000.00,sim,2023-08-01,2026-09-30,inativo,usuario_12,,CP-NB-02
+usuario_03,Mônica Farias,monica.farias@gogroup.com.br,ERP,analista de contas a pagar sênior,Financeiro - Contas a pagar,analista_cp,5000.00,sim,2022-05-02,,ativo,usuario_12,,CP-NB-03
+usuario_04,André Pacheco,andre.pacheco@gogroup.com.br,ERP,analista de contas a pagar sênior,Financeiro - Contas a pagar,analista_cp,5000.00,sim,2023-01-09,,ativo,usuario_12,,CP-NB-04
+usuario_05,Natália Pires,natalia.pires@gogroup.com.br,ERP,analista de contas a pagar pleno,Financeiro - Contas a pagar,analista_cp,5000.00,sim,2024-07-01,,ativo,usuario_12,,CP-NB-05
+usuario_06,Henrique Lobo,henrique.lobo@gogroup.com.br,ERP,analista de contas a pagar pleno,Financeiro - Contas a pagar,analista_cp,5000.00,sim,2025-02-03,,ativo,usuario_12,,CP-NB-06
+usuario_07,Gabriel Antunes,gabriel.antunes@gogroup.com.br,ERP,analista de contas a pagar júnior,Financeiro - Contas a pagar,analista_cp,5000.00,sim,2026-10-01,,ativo,usuario_12,,CP-NB-07
+usuario_08,Simone Araújo,simone.araujo@gogroup.com.br,ERP,analista de contas a pagar pleno,Financeiro - Contas a pagar,analista_cp,5000.00,sim,2025-06-02,,ativo,usuario_12,,CP-NB-08
+usuario_09,Felipe Cordeiro,felipe.cordeiro@gogroup.com.br,ERP,analista de contas a pagar pleno,Financeiro - Contas a pagar,analista_cp,5000.00,sim,2024-11-04,,ativo,usuario_12,,CP-NB-09
+usuario_10,Beatriz Leal,beatriz.leal@gogroup.com.br,ERP,analista de contas a pagar júnior,Financeiro - Contas a pagar,analista_cp,5000.00,sim,2025-09-01,,ativo,usuario_12,,CP-NB-10
+usuario_11,Otávio Mendes,otavio.mendes@gogroup.com.br,ERP,analista de contas a pagar júnior,Financeiro - Contas a pagar,analista_cp,5000.00,sim,2026-10-05,,ativo,usuario_12,,CP-NB-11
+usuario_12,Cláudia Ferraz,claudia.ferraz@gogroup.com.br,ERP,supervisora de contas a pagar,Financeiro - Contas a pagar,aprovador,50000.00,sim,2021-06-14,,ativo,usuario_13,,CP-NB-12
+usuario_13,Renata Paiva,renata.paiva@gogroup.com.br,ERP,coordenadora de contas a pagar,Financeiro - Contas a pagar,aprovador,50000.00,sim,2019-02-11,,ativo,usuario_15,PS01,CP-NB-13
+usuario_14,Marcos Teles,marcos.teles@gogroup.com.br,ERP,tesoureiro,Financeiro - Tesouraria,tesouraria,50000.00,não,2020-08-03,,ativo,usuario_15,PS02,CP-NB-14
+usuario_15,Helena Duarte,helena.duarte@gogroup.com.br,ERP,diretora financeira,Financeiro - Diretoria,diretoria,sem limite,não,2018-05-07,,ativo,,PS03,CP-NB-15
+usuario_16,Rafael Nunes,rafael.nunes@gogroup.com.br,ERP,controller,Financeiro - Controladoria,auditor,0.00,não,2020-01-13,,ativo,usuario_15,PS09,CP-NB-16
+integracao_frete,Integração de faturas de frete,,ERP,conta de serviço,TI - Integrações,integracao,0.00,não,2024-02-01,,ativo,,,SRV-ERP-01
+cadastro_compras,Integração Compras -> ERP (cadastro),,ERP,conta de serviço,TI - Integrações,integracao,0.00,não,2019-01-02,,ativo,,,SRV-ERP-01
+retorno_cnab,Importação de retorno bancário (CNAB),,ERP,conta de serviço,TI - Integrações,integracao,0.00,não,2019-01-02,,ativo,,,SRV-ERP-01
+cmenezes,Carla Menezes,carla.menezes@gogroup.com.br,Compras,compradora (produto e embalagens),Suprimentos,comprador,5000.00,não,2021-03-01,,ativo,hduarte,PS04,SUP-NB-CME
+dprado,Diego Prado,diego.prado@gogroup.com.br,Compras,coordenador de compras (insumos e serviços),Suprimentos,comprador,50000.00,não,2019-09-16,,ativo,hduarte,PS05,SUP-NB-DPR
+hduarte,Helena Duarte,helena.duarte@gogroup.com.br,Compras,diretora financeira,Financeiro - Diretoria,aprovador_compras,sem limite,não,2018-05-07,,ativo,,PS03,SUP-NB-HDU
+bsa,Bruno Sá,bruno.sa@gogroup.com.br,Compras,gerente de marketing,Marketing,solicitante,0.00,não,2022-02-14,,ativo,,PS06,SUP-NB-BSA
+frocha,Fernanda Rocha,fernanda.rocha@gogroup.com.br,Compras,gerente de logística,Logística,solicitante,0.00,não,2020-10-05,,ativo,,PS07,SUP-NB-FRO
+lcampos,Lívia Campos,livia.campos@gogroup.com.br,Compras,advogada,Jurídico,consulta,0.00,não,2023-04-03,,ativo,,PS08,SUP-NB-LCA
+tlins,Tiago Lins,tiago.lins@gogroup.com.br,Compras,coordenador de facilities,Administrativo,solicitante,0.00,não,2021-08-09,,ativo,,PS10,SUP-NB-TLI
+pviana,Paula Viana,paula.viana@gogroup.com.br,Compras,coordenadora de TI,Tecnologia,solicitante,0.00,não,2022-06-20,,ativo,,PS11,SUP-NB-PVI
+conf_cd1_01,Edvaldo Sousa,,WMS,conferente de recebimento,Logística - CD1 - Maracanaú/CE,conferente,0.00,não,2022-02-28,,ativo,frocha,,WMS-CD1
+conf_cd1_02,Raimundo Nonato Silva,,WMS,conferente de recebimento,Logística - CD1 - Maracanaú/CE,conferente,0.00,não,2023-10-08,,ativo,frocha,,WMS-CD1
+conf_cd2_01,Cícero Alves,,WMS,conferente de recebimento,"Logística - CD2 - Pajuçara, Maracanaú/CE",conferente,0.00,não,2021-01-27,,ativo,frocha,,WMS-CD2
+conf_fab_01,Josué Batista,,WMS,conferente de recebimento,Logística - Fábrica Gocase - Eusébio/CE,conferente,0.00,não,2023-05-10,,ativo,frocha,,WMS-FAB

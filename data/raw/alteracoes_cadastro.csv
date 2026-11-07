@@ -1,0 +1,69 @@
+alteracao_id,data_hora,fornecedor_id,campo,valor_anterior,valor_novo,alterado_por,origem,confirmacao_registrada,confirmacao_como
+AC31007,2026-04-22 13:13:00,FP1190,email,faturamento@mosaico.com.br,financeiro@mosaico.com.br,usuario_02,email,não,
+AC31010,2026-05-12 14:17:00,FP3351,telefone,(81) 3762-4879,(81) 3423-2869,usuario_01,portal_fornecedor,sim,confirmado por e-mail do domínio cadastrado (papelaonobre.ind.br)
+AC31013,2026-05-15 09:28:00,FP9048,endereco,"Rua Vasconcelos, 451","Av. Montenegro, 156",usuario_02,email,não,
+AC31016,2026-05-21 14:00:00,FP7728,email,contato.mariarruda@gmail.com,fiscal@gmail.com,usuario_05,email,não,
+AC31019,2026-05-25 14:09:00,FP3800,endereco,"Rua Montenegro, 1619","Av. Vasconcelos, 2811",usuario_04,email,não,
+AC31022,2026-06-01 14:03:00,FP7332,email,contasareceber@chatbox.com.br,faturamento@chatbox.com.br,usuario_03,email,não,
+AC31025,2026-06-15 16:46:00,FP5601,endereco,"Rua Brandão, 223","Av. Feitosa, 425",usuario_09,portal_fornecedor,não,
+AC31028,2026-06-22 10:07:00,FP7836,banco,905,368,usuario_06,portal_fornecedor,sim,ligação para o telefone do cadastro (85) 3788-0117 em 22/06/2026; confirmado com o gerente financeiro
+AC31031,2026-06-22 10:07:00,FP7836,agencia,2497,3873,usuario_06,portal_fornecedor,sim,ligação para o telefone do cadastro (85) 3788-0117 em 22/06/2026; confirmado com o gerente financeiro
+AC31034,2026-06-22 10:07:00,FP7836,conta,1622337-9,3190220-8,usuario_06,portal_fornecedor,sim,ligação para o telefone do cadastro (85) 3788-0117 em 22/06/2026; confirmado com o gerente financeiro
+AC31037,2026-06-22 10:22:00,FP1967,email,faturamento@guardiao.com.br,financeiro@guardiao.com.br,usuario_04,email,não,
+AC31040,2026-06-29 12:37:00,FP4977,endereco,"Rua Feitosa, 939","Av. Queiroz, 36",usuario_06,portal_fornecedor,não,
+AC31043,2026-07-01 08:52:00,FP9180,banco,905,146,usuario_06,email,sim,ligação para o telefone do cadastro (21) 99487-1122 em 01/07/2026; confirmado com a analista de cobrança
+AC31046,2026-07-01 08:52:00,FP9180,agencia,3702,6551,usuario_06,email,sim,ligação para o telefone do cadastro (21) 99487-1122 em 01/07/2026; confirmado com a analista de cobrança
+AC31049,2026-07-01 08:52:00,FP9180,conta,2234123-2,4016409-2,usuario_06,email,sim,ligação para o telefone do cadastro (21) 99487-1122 em 01/07/2026; confirmado com a analista de cobrança
+AC31052,2026-07-06 11:43:00,FP1602,endereco,"Rua Tavares, 1828","Av. Nogueira, 1394",usuario_05,email,não,
+AC31055,2026-07-06 16:40:00,FP9105,chave_pix,95581280000185,contato.igorsampaio@gmail.com,usuario_04,portal_fornecedor,sim,ligação para o telefone do cadastro (31) 99366-4498; confirmado
+AC31058,2026-07-07 10:00:00,FP4999,telefone,(11) 3937-7559,(11) 3632-2174,usuario_03,portal_fornecedor,sim,confirmado por e-mail do domínio cadastrado (essenza.ind.br)
+AC31061,2026-07-13 08:16:00,FP9437,chave_pix,contato.caiopimentel@gmail.com,86559620000180,usuario_02,portal_fornecedor,sim,ligação para o telefone do cadastro (81) 99740-2653; confirmado
+AC31064,2026-07-13 16:48:00,FP9375,chave_pix,a6e175e7-83ac-4df2-ae4b-55d4f8232a1f,42545039000134,usuario_01,portal_fornecedor,sim,ligação para o telefone do cadastro (31) 98581-2860; confirmado
+AC31067,2026-07-14 17:44:00,FP9860,banco,146,368,usuario_03,portal_fornecedor,sim,ligação para o telefone do cadastro (81) 98873-8620 em 15/07/2026; confirmado com a responsável financeira
+AC31070,2026-07-14 17:44:00,FP9860,agencia,9844,4782,usuario_03,portal_fornecedor,sim,ligação para o telefone do cadastro (81) 98873-8620 em 15/07/2026; confirmado com a responsável financeira
+AC31073,2026-07-14 17:44:00,FP9860,conta,5071082-0,5251509-6,usuario_03,portal_fornecedor,sim,ligação para o telefone do cadastro (81) 98873-8620 em 15/07/2026; confirmado com a responsável financeira
+AC31076,2026-07-15 17:11:00,FP6986,telefone,(31) 99210-7132,(31) 3944-2938,usuario_04,email,sim,confirmado por e-mail do domínio cadastrado (gmail.com)
+AC31079,2026-07-16 17:27:00,FP3803,chave_pix,51624592000153,faturamento@manutencaofortalez.com,usuario_03,portal_fornecedor,sim,ligação para o telefone do cadastro (85) 3930-8936; confirmado
+AC31082,2026-07-20 16:23:00,FP7706,banco,146,289,usuario_01,portal_fornecedor,sim,ligação para o telefone do cadastro (85) 98070-9063 em 20/07/2026; confirmado com a responsável financeira
+AC31085,2026-07-20 16:23:00,FP7706,agencia,4864,3023,usuario_01,portal_fornecedor,sim,ligação para o telefone do cadastro (85) 98070-9063 em 20/07/2026; confirmado com a responsável financeira
+AC31088,2026-07-20 16:23:00,FP7706,conta,1075929-9,6505461-2,usuario_01,portal_fornecedor,sim,ligação para o telefone do cadastro (85) 98070-9063 em 20/07/2026; confirmado com a responsável financeira
+AC31091,2026-07-21 16:50:00,FP8966,banco,289,551,usuario_09,email,sim,ligação para o telefone do cadastro (81) 98365-4270 em 21/07/2026; confirmado com a analista de cobrança
+AC31094,2026-07-21 16:50:00,FP8966,agencia,1563,2109,usuario_09,email,sim,ligação para o telefone do cadastro (81) 98365-4270 em 21/07/2026; confirmado com a analista de cobrança
+AC31097,2026-07-21 16:50:00,FP8966,conta,4040600-2,7022420-0,usuario_09,email,sim,ligação para o telefone do cadastro (81) 98365-4270 em 21/07/2026; confirmado com a analista de cobrança
+AC31100,2026-07-23 13:35:00,FP2832,telefone,(41) 3443-4325,(41) 3109-5263,usuario_04,email,sim,confirmado por e-mail do domínio cadastrado (lumina.com.br)
+AC31103,2026-07-23 16:09:00,FP7728,banco,905,612,usuario_06,email,sim,ligação para o telefone do cadastro (31) 99905-1329 em 24/07/2026; confirmado com a analista de cobrança
+AC31106,2026-07-23 16:09:00,FP7728,agencia,5984,7820,usuario_06,email,sim,ligação para o telefone do cadastro (31) 99905-1329 em 24/07/2026; confirmado com a analista de cobrança
+AC31109,2026-07-23 16:09:00,FP7728,conta,3074719-8,7910859-7,usuario_06,email,sim,ligação para o telefone do cadastro (31) 99905-1329 em 24/07/2026; confirmado com a analista de cobrança
+AC31112,2026-07-24 09:53:00,FP2838,telefone,(85) 3342-1018,(85) 3182-7816,usuario_08,email,sim,confirmado por e-mail do domínio cadastrado (polimax.com)
+AC31115,2026-07-24 10:49:00,FP2832,endereco,"Rua Linhares, 574","Av. Pimentel, 1775",usuario_04,interno,não,
+AC31118,2026-07-24 13:34:00,FP4898,telefone,(85) 3816-2432,(85) 3869-5659,usuario_03,portal_fornecedor,sim,confirmado por e-mail do domínio cadastrado (exatacontabilidade.com.br)
+AC31121,2026-07-31 17:36:00,FP7753,endereco,"Rua Rangel, 831","Av. Holanda, 1663",usuario_02,email,não,
+AC31124,2026-08-03 14:24:00,FP9303,endereco,"Rua Queiroz, 2685","Av. Sampaio, 936",usuario_04,interno,não,
+AC31127,2026-08-03 16:28:00,FP5836,banco,551,612,usuario_10,portal_fornecedor,sim,ligação para o telefone do cadastro (11) 3467-6998 em 04/08/2026; confirmado com o gerente financeiro
+AC31130,2026-08-03 16:28:00,FP5836,agencia,9156,2555,usuario_10,portal_fornecedor,sim,ligação para o telefone do cadastro (11) 3467-6998 em 04/08/2026; confirmado com o gerente financeiro
+AC31133,2026-08-03 16:28:00,FP5836,conta,720359-0,4112917-1,usuario_10,portal_fornecedor,sim,ligação para o telefone do cadastro (11) 3467-6998 em 04/08/2026; confirmado com o gerente financeiro
+AC31136,2026-09-03 08:47:00,FP6272,endereco,"Rua Albuquerque, 2480","Av. Bezerra, 861",usuario_09,portal_fornecedor,não,
+AC31139,2026-09-08 10:22:00,FP3863,chave_pix,c255af4f-6f06-4f85-a08c-96ef67a848f1,28429911000158,usuario_06,portal_fornecedor,sim,ligação para o telefone do cadastro (11) 3860-1568; confirmado
+AC31142,2026-09-08 17:37:00,FP6335,telefone,(85) 3345-9783,(85) 3260-2357,usuario_01,email,sim,confirmado por e-mail do domínio cadastrado (graficarapida.com.br)
+AC31145,2026-09-10 16:44:00,FP3071,endereco,"Rua Brandão, 1017","Av. Vasconcelos, 2218",usuario_04,email,não,
+AC31148,2026-09-14 08:21:00,FP8966,endereco,"Rua Vasconcelos, 2718","Av. Cavalcante, 20",usuario_06,email,não,
+AC31151,2026-10-05 15:50:00,FP5079,banco,905,368,usuario_09,email,sim,ligação para o telefone do cadastro (81) 3603-3617 em 05/10/2026; confirmado com a analista de cobrança
+AC31154,2026-10-05 15:50:00,FP5079,agencia,6500,0786,usuario_09,email,sim,ligação para o telefone do cadastro (81) 3603-3617 em 05/10/2026; confirmado com a analista de cobrança
+AC31157,2026-10-05 15:50:00,FP5079,conta,7111462-9,8675068-5,usuario_09,email,sim,ligação para o telefone do cadastro (81) 3603-3617 em 05/10/2026; confirmado com a analista de cobrança
+AC31160,2026-10-13 15:38:00,FP3614,banco,368,551,usuario_08,portal_fornecedor,sim,ligação para o telefone do cadastro (41) 3947-5737 em 13/10/2026; confirmado com a responsável financeira
+AC31163,2026-10-13 15:38:00,FP3614,agencia,1573,7839,usuario_08,portal_fornecedor,sim,ligação para o telefone do cadastro (41) 3947-5737 em 13/10/2026; confirmado com a responsável financeira
+AC31166,2026-10-13 15:38:00,FP3614,conta,9727744-6,6546286-2,usuario_08,portal_fornecedor,sim,ligação para o telefone do cadastro (41) 3947-5737 em 13/10/2026; confirmado com a responsável financeira
+AC31169,2026-10-15 11:40:00,FP4202,banco,289,612,usuario_06,portal_fornecedor,sim,ligação para o telefone do cadastro (85) 3259-5805 em 15/10/2026; confirmado com a analista de cobrança
+AC31172,2026-10-15 11:40:00,FP4202,agencia,8203,2569,usuario_06,portal_fornecedor,sim,ligação para o telefone do cadastro (85) 3259-5805 em 15/10/2026; confirmado com a analista de cobrança
+AC31175,2026-10-15 11:40:00,FP4202,conta,6040845-0,1834277-8,usuario_06,portal_fornecedor,sim,ligação para o telefone do cadastro (85) 3259-5805 em 15/10/2026; confirmado com a analista de cobrança
+AC31178,2026-10-20 14:10:00,FP3345,banco,368,289,usuario_04,portal_fornecedor,sim,ligação para o telefone do cadastro anterior à alteração (11) 3696-0849 em 21/10/2026 10:05; confirmado com Marcelo Okada (gerente financeiro)
+AC31181,2026-10-20 14:10:00,FP3345,agencia,0787,6182,usuario_04,portal_fornecedor,sim,ligação para o telefone do cadastro anterior à alteração (11) 3696-0849 em 21/10/2026 10:05; confirmado com Marcelo Okada (gerente financeiro)
+AC31184,2026-10-20 14:10:00,FP3345,conta,9089674-7,2178621-3,usuario_04,portal_fornecedor,sim,ligação para o telefone do cadastro anterior à alteração (11) 3696-0849 em 21/10/2026 10:05; confirmado com Marcelo Okada (gerente financeiro)
+AC31187,2026-10-22 11:46:00,FP2303,telefone,(85) 3514-0347,(85) 3561-7899,usuario_05,portal_fornecedor,sim,confirmado por e-mail do domínio cadastrado (forcaempilhadeiras.com.br)
+AC31190,2026-10-22 16:14:00,FP6572,email,financeiro@condominiologistic.com.br,faturamento@condominiologistic.com.br,usuario_11,email,não,
+AC31193,2026-10-26 08:16:00,FP9180,email,contato.fernandabrandao@gmail.com,contasareceber@gmail.com,usuario_08,email,não,
+AC31196,2026-10-26 11:40:00,FP1231,email,cobranca@energeticacostales.com,contasareceber@energeticacostales.com,usuario_05,email,não,
+AC31199,2026-10-28 08:21:00,FP9776,endereco,"Rua Cavalcante, 1435","Av. Holanda, 1546",usuario_11,portal_fornecedor,não,
+AC31202,2026-10-30 16:05:00,FP4615,banco,774,905,usuario_07,email,não,
+AC31205,2026-10-30 16:05:00,FP4615,agencia,7166,0001,usuario_07,email,não,
+AC31208,2026-10-30 16:05:00,FP4615,conta,9517944-5,4471203-9,usuario_07,email,não,

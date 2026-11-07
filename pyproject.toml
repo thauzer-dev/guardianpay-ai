@@ -1,0 +1,14 @@
+[project]
+name = "guardianpay"
+version = "0.1.0"
+description = "GuardianPay AI — agentes autônomos de Contas a Pagar (fundação)"
+requires-python = ">=3.11"
+dependencies = ["pydantic>=2.6"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+api = ["fastapi>=0.110", "uvicorn>=0.29"]   # próxima entrega
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src", "tests"]

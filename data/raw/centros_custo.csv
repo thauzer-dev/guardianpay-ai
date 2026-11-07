@@ -1,0 +1,15 @@
+codigo,nome,empresa,area,responsavel,responsavel_pessoa_id,orcamento_mensal_rs,ativo
+CC-1100,Gocase - Produção,Gocase,Produção,Wagner Frota,,4630000.00,sim
+CC-2110,GoBeauté - Kokeshi,GoBeauté,Marca Kokeshi,Renan Saboia,,1310000.00,sim
+CC-2120,GoBeauté - Ápice,GoBeauté,Marca Ápice,Débora Lustosa,,1260000.00,sim
+CC-2130,GoBeauté - Lescent,GoBeauté,Marca Lescent,Elisa Castelo,,1495000.00,sim
+CC-2140,GoBeauté - Auá,GoBeauté,Marca Auá,Mirela Benevides,,1100000.00,sim
+CC-3100,Logística - Embalagens,Gogroup,Logística,Fernanda Rocha,PS07,3425000.00,sim
+CC-3200,Logística - Transporte,Gogroup,Logística,Fernanda Rocha,PS07,2850000.00,sim
+CC-4100,Marketing,Gogroup,Marketing,Bruno Sá,PS06,925000.00,sim
+CC-4200,Marketing - Influência,Gogroup,Marketing,Bruno Sá,PS06,370000.00,sim
+CC-5100,Administrativo,Gogroup,Administrativo,Tiago Lins,PS10,250000.00,sim
+CC-5200,Administrativo - Imóveis,Gogroup,Administrativo,Tiago Lins,PS10,550000.00,sim
+CC-5300,Administrativo - Utilidades,Gogroup,Administrativo,Tiago Lins,PS10,85000.00,sim
+CC-6100,Tecnologia,Gogroup,Tecnologia,Paula Viana,PS11,55000.00,sim
+CC-7100,Financeiro,Gogroup,Financeiro,Helena Duarte,PS03,20000.00,sim
